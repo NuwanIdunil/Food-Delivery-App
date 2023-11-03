@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36155671012",
+    "project_id": "nfood-c3088",
+    "storage_bucket": "nfood-c3088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36155671012:android:fec64f5a7fa9cedc4c87f1",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZKpk7rXGQ2tyD0FaLsx8zbW24yPFZ2YA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
